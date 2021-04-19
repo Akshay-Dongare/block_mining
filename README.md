@@ -1,4 +1,4 @@
-# blockchain_mining
+# block_mining
 BLOCKCHAIN: A blockchain is a chain of blocks.
 Each block is related by a special value called Hash. A hash is the digital signature of any data. The concept of blockchain is often related to cryptocurrencies 
 like bitcoin and etherum; but in itself the concept of blockchain has various other applications.
